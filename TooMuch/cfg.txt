@@ -1,0 +1,26 @@
+Glow Team (r g b a)
+0
+0
+255
+170
+Glow Enemy (r g b a)
+255
+255
+255
+255
+Chams Team (r g b)
+0
+255
+0
+Chams Enemy (r g b)
+255
+0
+255
+Trigger (Delay Key)
+0
+Mbutton
+FOV (Angle Key)
+120
+v
+Thirdperson (Key)
+Caps_Lock

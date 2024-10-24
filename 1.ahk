@@ -1,0 +1,3 @@
+key = MButton
+
+key::j

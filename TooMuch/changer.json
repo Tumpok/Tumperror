@@ -1,0 +1,177 @@
+{
+    "deagle": {
+        "id": 1,
+        "skinID": 1050,
+        "float": 0.001
+    },
+    "glock": {
+        "id": 4,
+        "skinID": 957,
+        "float": 0.001
+    },
+    "usp-s": {
+        "id": 61,
+        "skinID": 653,
+        "float": 0.001
+    },
+    "ak47": {
+        "id": 7,
+        "skinID": 959,
+        "float": 0.001
+    },
+    "awp": {
+        "id": 9,
+        "skinID": 475,
+        "float": 0.01
+    },
+    "mp9": {
+        "id": 34,
+        "skinID": 734,
+        "float": 0.01
+    },
+    "ssg": {
+        "id": 40,
+        "skinID": 1101,
+        "float": 0.01
+    },
+    "m4a4": {
+        "id": 16,
+        "skinID": 695,
+        "float": 0.01
+    },
+    "sawedoff": {
+        "id": 29,
+        "skinID": 953,
+        "float": 0.01
+    },
+    "negev": {
+        "id": 28,
+        "skinID": 1043,
+        "float": 0.01
+    },
+    "galil": {
+        "id": 13,
+        "skinID": 1038,
+        "float": 0.01
+    },
+    "p90": {
+        "id": 19,
+        "skinID": 636,
+        "float": 0.01
+    },
+    "bomb": {
+        "id": 49,
+        "skinID": 0,
+        "float": 0.01
+    },
+	"scar20": {
+        "id": 38,
+        "skinID": 954,
+        "float": 0.01
+    },
+	"aug": {
+        "id": 8,
+        "skinID": 455,
+        "float": 0.01
+    },
+	"famas": {
+        "id": 10,
+        "skinID": 1127,
+        "float": 0.01
+    },
+	"m4a1": {
+        "id": 60,
+        "skinID": 1001,
+        "float": 0.01
+    },
+	"revolver": {
+        "id": 64,
+        "skinID": 683,
+        "float": 0.01
+    },
+	"cz75": {
+        "id": 63,
+        "skinID": 687,
+        "float": 0.01
+    },
+	"beretta": {
+        "id": 2,
+        "skinID": 1126,
+        "float": 0.01
+    },
+	"fiveseven": {
+        "id": 3,
+        "skinID": 837,
+        "float": 0.01
+    },
+	"p2000": {
+        "id": 32,
+        "skinID": 389,
+        "float": 0.01
+    },
+	"p250": {
+        "id": 36,
+        "skinID": 125,
+        "float": 0.01
+    },
+	"tec9": {
+        "id": 30,
+        "skinID": 889,
+        "float": 0.01
+    },
+	"mac10": {
+        "id": 17,
+        "skinID": 433,
+        "float": 0.01
+    },
+	"mp7": {
+        "id": 33,
+        "skinID": 696,
+        "float": 0.01
+    },
+	"mp5": {
+        "id": 23,
+        "skinID": 974,
+        "float": 0.01
+    },
+	"ppbizon": {
+        "id": 26,
+        "skinID": 542,
+        "float": 0.01
+    },
+	"ump45": {
+        "id": 24,
+        "skinID": 802,
+        "float": 0.01
+    },
+	"mag7": {
+        "id": 27,
+        "skinID": 948,
+        "float": 0.01
+    },
+	"nova": {
+        "id": 35,
+        "skinID": 537,
+        "float": 0.01
+    },
+	"xm1014": {
+        "id": 25,
+        "skinID": 970,
+        "float": 0.01
+    },
+	"m249": {
+        "id": 14,
+        "skinID": 496,
+        "float": 0.01
+    },
+	"sg553": {
+        "id": 39,
+        "skinID": 955,
+        "float": 0.01
+    },
+	"g3sg1": {
+        "id": 11,
+        "skinID": 712,
+        "float": 0.01
+    }	
+}
